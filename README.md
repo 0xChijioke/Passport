@@ -1,8 +1,8 @@
 # 🏗 Gitcoin Passport & Scaffold-ETH 2
 
-[Demo site](https:passport-swart.vercel.app)
-[Deployed contract](https://sepolia.etherscan.io/address/0xe5E8DD1ae1113C1659308dEF80C69e401c1CE3e7#code)
-[Demo video](https://youtu.be/Rg6bD2W_ep8)
+[Demo site](https:passport-swart.vercel.app)<br />
+[Deployed contract](https://sepolia.etherscan.io/address/0xe5E8DD1ae1113C1659308dEF80C69e401c1CE3e7#code)<br />
+[Demo video](https://youtu.be/Rg6bD2W_ep8)<br />
 
 This project is a gated scaffold-eth build that utilizes the Gitcoin passport scorer API for authenticating the humanity of a connected address. It verifies whether the address has a score equal to or greater than 1 before granting access to the simple message board Dapp.
 
