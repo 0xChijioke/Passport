@@ -6,7 +6,7 @@
 
 This project is a gated scaffold-eth build that utilizes the Gitcoin passport scorer API for authenticating the humanity of a connected address. It verifies whether the address has a score equal to or greater than 1 before granting access to the simple message board Dapp.
 
-![Passport Logo](/public/passportLogo.svg)
+![Passport Logo](packages/nextjs/public/passportLogo.svg)
 # 🧪 Gitcoin Scorer API
 The Gitcoin Scorer API is a centralized service offered by Gitcoin, designed to simplify the retrieval and utilization of Passport scores. It is the recommended method for integrating with Gitcoin Passport.
 
