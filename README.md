@@ -1,6 +1,6 @@
 # 🏗 Gitcoin Passport & Scaffold-ETH 2
 
-[Demo site](https:passport-swart.vercel.app)<br />
+[Demo site](https://passport-swart.vercel.app)<br />
 [Deployed contract](https://sepolia.etherscan.io/address/0xe5E8DD1ae1113C1659308dEF80C69e401c1CE3e7#code)<br />
 [Demo video](https://youtu.be/Rg6bD2W_ep8)<br />
 
